@@ -12,11 +12,8 @@ I am now learner of python
 ![](https://nirzak-streak-stats.vercel.app/?user=udaykumarv01&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumarv01&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=udaykumarv01&theme=holi&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=udaykumarv01&limit=5&theme=dark&combine_all_yearly_contributions=true)
