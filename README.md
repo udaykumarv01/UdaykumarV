@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am now learner of python 
+I am now learner of software
 
 
 ## 🌐 Socials:
